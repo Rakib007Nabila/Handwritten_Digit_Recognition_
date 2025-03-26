@@ -6,6 +6,8 @@ This project implements a Handwritten Digit Recognition model using a Neural Net
 
 # Dataset
 
+[click here for Dataset](https://www.kaggle.com/datasets/subho117/handwritten-digit-recognition-using-neural-network?select=mnist-original.mat)
+
 The dataset used in this project is the MNIST handwritten digits dataset, stored in a **.mat** file format. It consists of:
 
 - 70,000 grayscale images of handwritten digits
