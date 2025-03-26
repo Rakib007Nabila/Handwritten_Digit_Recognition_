@@ -24,7 +24,7 @@ The dataset is preprocessed by normalizing pixel values (0 to 1) and converting 
 **Python Libraries**
 - NumPy
 
-- SciPy -
+- SciPy
 
 - TensorFlow & Keras 
 
@@ -39,11 +39,14 @@ The dataset is preprocessed by normalizing pixel values (0 to 1) and converting 
 - scikit-learn
 - matplotlib
 
-** Installation Command**
+**Installation Command**
+
 Once the file is added to your repository, users can install all dependencies by running:
+
 ```
 pip install -r requirements.txt
 ```
+
 This ensures a smooth setup for anyone using your project. Let me know if you need any modifications
 
 
