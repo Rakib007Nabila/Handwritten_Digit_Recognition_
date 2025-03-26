@@ -120,3 +120,14 @@ model = tf.keras.models.load_model("handwritten_digit_model.h5")  # Load the sav
 - Develop a GUI using Tkinter for interactive digit recognition.
 
 - Train on additional handwritten datasets for better generalization.
+
+
+ # Contact & Contribution
+ 
+🔗 **GitHub:** [Rakib007Nabila](https://github.com/Rakib007Nabila)
+
+[📧 Email Me](mailto:nabila.rakib7@gmail.com)
+
+
+
+📌 Contributions are welcome! Feel free to open issues or submit pull requests. 😊
