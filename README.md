@@ -20,6 +20,33 @@ The dataset used in this project is the MNIST handwritten digits dataset, stored
 
 The dataset is preprocessed by normalizing pixel values (0 to 1) and converting labels into one-hot encoding for training the model.
 
+# Libraries Used:
+**Python Libraries**
+- NumPy
+
+- SciPy -
+
+- TensorFlow & Keras 
+
+- Scikit-learn 
+
+- Matplotlib
+
+# requirements.txt
+- numpy
+- scipy
+- tensorflow
+- scikit-learn
+- matplotlib
+
+** Installation Command**
+Once the file is added to your repository, users can install all dependencies by running:
+```
+pip install -r requirements.txt
+```
+This ensures a smooth setup for anyone using your project. Let me know if you need any modifications
+
+
 # Installation & Setup
 
 To run this project in Google Colab or Jupyter Notebook, install the required dependencies:
